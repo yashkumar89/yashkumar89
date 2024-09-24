@@ -1,6 +1,13 @@
-<h1 align="center">Hi 👋, I'm Yash Kumar</h1>
-<h3 align="center">A passionate Software Engineer from India</h3>https://miro.medium.com/v2/resize:fit:1360/1*zVnWJtyGOX_kUIDm6ccCfQ.gif
+
+### <samp>&gt; Hi there, I'm <a href="https://gkassym.netlify.app" target="_blank">yashkumar89</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>
+<h3 align="center">A passionate Software Engineer from India</h3>
 <img align="right"alt="coding"width="400"src="https://miro.medium.com/v2/resize:fit:1360/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
+### Glad to see you here! 
+
+I am a full-stack software engineer and writer. I love programming, writing, speaking and traveling.
+
+As a software engineer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashkumar89&label=Profile%20views&color=0e75b6&style=flat" alt="yashkumar89" /> </p>
 
@@ -21,3 +28,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yashkumar89&show_icons=true&locale=en" alt="yashkumar89" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashkumar89&" alt="yashkumar89" /></p>
+
+
