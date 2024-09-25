@@ -11,7 +11,7 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashkumar89&label=Profile%20views&color=0e75b6&style=flat" alt="yashkumar89" /> </p>
 
-- 🌱 I’m currently learning **python full stack cource**
+- 🌱 I’m currently learning **python full stack course**
 
 - 📫 How to reach me **yashkumar2156@gmail.com**
 
